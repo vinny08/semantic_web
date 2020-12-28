@@ -1,0 +1,355 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:org="http://www.penemu.fake/#">
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Albert_Einstein">
+	 <org:no>1</org:no>
+	 <org:nama>Albert Einstein</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Teori relativitas</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Alessandro_Volta">
+	 <org:no>2</org:no>
+	 <org:nama>Alessandro Volta</org:nama>
+	 <org:asal>Italia</org:asal>
+	 <org:penemuan>Batu baterai</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Alfred_Nobel">
+	 <org:no>3</org:no>
+	 <org:nama>Alfred Nobel</org:nama>
+	 <org:asal>Swedia</org:asal>
+	 <org:penemuan>Dinamit</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Felix_Hoffmann">
+	 <org:no>4</org:no>
+	 <org:nama>Felix Hoffmann</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Aspirin</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Isaac_Newton">
+	 <org:no>5</org:no>
+	 <org:nama>Isaac Newton</org:nama>
+	 <org:asal>Inggris</org:asal>
+	 <org:penemuan>Hukum gravitasi</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Johannes_Gutenberg">
+	 <org:no>6</org:no>
+	 <org:nama>Johannes Gutenberg</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Mesin cetak</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Murdocks">
+	 <org:no>7</org:no>
+	 <org:nama>Murdocks</org:nama>
+	 <org:asal>Inggris</org:asal>
+	 <org:penemuan>Kereta api</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Konrad_Zuse">
+	 <org:no>8</org:no>
+	 <org:nama>Konrad Zuse</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Komputer</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Thomas_Alva_Edison">
+	 <org:no>9</org:no>
+	 <org:nama>Thomas Alva Edison</org:nama>
+	 <org:asal>Amerika Serikat</org:asal>
+	 <org:penemuan>Lampu Listrik</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/B.J._Habibie">
+	 <org:no>10</org:no>
+	 <org:nama>B.J. Habibie</org:nama>
+	 <org:asal>Indonesia</org:asal>
+	 <org:penemuan>Crack Propagation Theory</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Dr._Khoirul_Anwar">
+	 <org:no>11</org:no>
+	 <org:nama>Dr. Khoirul Anwar</org:nama>
+	 <org:asal>Indonesia</org:asal>
+	 <org:penemuan>konsep dua FFT yang dipakai dalam 4G LTE</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Zacharias_Janssen">
+	 <org:no>12</org:no>
+	 <org:nama>Zacharias Janssen</org:nama>
+	 <org:asal>Belanda</org:asal>
+	 <org:penemuan>Mikroskop, tahun 1590</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Willis_Haviland_Carrier">
+	 <org:no>13</org:no>
+	 <org:nama>Willis Haviland Carrier</org:nama>
+	 <org:asal>Amerika Serikat</org:asal>
+	 <org:penemuan>AC modern</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Williarn_Sturgeon">
+	 <org:no>14</org:no>
+	 <org:nama>Williarn Sturgeon</org:nama>
+	 <org:asal>Inggris</org:asal>
+	 <org:penemuan>Elektromagnet, tahun 1823</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Wilhelm_Conrad_Röntgen">
+	 <org:no>15</org:no>
+	 <org:nama>Wilhelm Conrad Röntgen</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Sinar-X</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Wilbur_dan_0rville_Wright">
+	 <org:no>16</org:no>
+	 <org:nama>Wilbur dan 0rville Wright</org:nama>
+	 <org:asal>Amerika Serikat</org:asal>
+	 <org:penemuan>Pesawat terbang</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Werner_von_Siemens">
+	 <org:no>17</org:no>
+	 <org:nama>Werner von Siemens</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Perusahaan Listrik dan Telekomunikasi Siemens</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Wernher_Von_Braun">
+	 <org:no>18</org:no>
+	 <org:nama>Wernher Von Braun</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Pengembang Teknologi Roket</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Samuel_F.B._Morse">
+	 <org:no>19</org:no>
+	 <org:nama>Samuel F.B. Morse</org:nama>
+	 <org:asal>Amerika Serikat</org:asal>
+	 <org:penemuan>Telegrap, tahun 1837</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Samuel_Hahnemann">
+	 <org:no>20</org:no>
+	 <org:nama>Samuel Hahnemann</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Homeopati</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Robert_Fulton">
+	 <org:no>21</org:no>
+	 <org:nama>Robert Fulton</org:nama>
+	 <org:asal>Amerika Serikat</org:asal>
+	 <org:penemuan>Kapal api, tahun 1807</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Robert_Boyle_dan_John_Walker">
+	 <org:no>22</org:no>
+	 <org:nama>Robert Boyle dan John Walker</org:nama>
+	 <org:asal>Irlandia/Inggris</org:asal>
+	 <org:penemuan>Korek api</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Rudolf_Hell">
+	 <org:no>23</org:no>
+	 <org:nama>Rudolf Hell</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Penggagas awal mekanisme pengiriman dan scanning dokumen pada mesin faks</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Rudolf_Diesel">
+	 <org:no>24</org:no>
+	 <org:nama>Rudolf Diesel</org:nama>
+	 <org:asal>Amerika Serikat</org:asal>
+	 <org:penemuan>Mesin pembakaran (Mesin diesel), tahun 1897</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Robert_Koch">
+	 <org:no>25</org:no>
+	 <org:nama>Robert Koch</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Metode untuk memurnikan bacillus antraks dari sampel darah dan mengembangkan kultur murni</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Rene_Laennec">
+	 <org:no>26</org:no>
+	 <org:nama>Rene Laennec</org:nama>
+	 <org:asal>Perancis</org:asal>
+	 <org:penemuan>Stetoskop</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Philipp_Reis">
+	 <org:no>27</org:no>
+	 <org:nama>Philipp Reis</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Telepon</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Peter_Henlein">
+	 <org:no>28</org:no>
+	 <org:nama>Peter Henlein</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Jam saku</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Otto_Lilienthal">
+	 <org:no>29</org:no>
+	 <org:nama>Otto Lilienthal</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Menciptakan penerbangan Meluncur</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Otto_Hahn">
+	 <org:no>30</org:no>
+	 <org:nama>Otto Hahn</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Menemukan fisi nuklir</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Nikola_Tesla">
+	 <org:no>31</org:no>
+	 <org:nama>Nikola Tesla</org:nama>
+	 <org:asal>Serbia</org:asal>
+	 <org:penemuan>Motor listrik</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Nicolaus_Copernicus">
+	 <org:no>32</org:no>
+	 <org:nama>Nicolaus Copernicus</org:nama>
+	 <org:asal>Polandia</org:asal>
+	 <org:penemuan>Teori Heliosentrisme</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Nikolaus_Otto">
+	 <org:no>33</org:no>
+	 <org:nama>Nikolaus Otto</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Mesin Pembakaran dalam</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Michael_Faraday">
+	 <org:no>34</org:no>
+	 <org:nama>Michael Faraday</org:nama>
+	 <org:asal>Inggris</org:asal>
+	 <org:penemuan>Dinamo (1831)</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Melitta_Bentz">
+	 <org:no>35</org:no>
+	 <org:nama>Melitta Bentz</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Penyaring kopi pertama</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Manfred_von_Ardenne">
+	 <org:no>36</org:no>
+	 <org:nama>Manfred von Ardenne</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Televisi</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Louis_Pasteur">
+	 <org:no>37</org:no>
+	 <org:nama>Louis Pasteur</org:nama>
+	 <org:asal>Perancis</org:asal>
+	 <org:penemuan>Vaksinasi</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Edwin_Land">
+	 <org:no>38</org:no>
+	 <org:nama>Edwin Land</org:nama>
+	 <org:asal>Amerika Serikat</org:asal>
+	 <org:penemuan>Kamera Polaroid</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Louis_Daguerre">
+	 <org:no>39</org:no>
+	 <org:nama>Louis Daguerre</org:nama>
+	 <org:asal>Perancis</org:asal>
+	 <org:penemuan>Proses Fotografi Daguerreotype</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Levi_Strauss">
+	 <org:no>40</org:no>
+	 <org:nama>Levi Strauss</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Bahan celana jeans</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Karlheinz_Brandenburg">
+	 <org:no>41</org:no>
+	 <org:nama>Karlheinz Brandenburg</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Teknologi MP3</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Karls_Drais">
+	 <org:no>42</org:no>
+	 <org:nama>Karls Drais</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Sepeda</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Julius_Lothar_Meyer">
+	 <org:no>43</org:no>
+	 <org:nama>Julius Lothar Meyer</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Menciptakan tabel periodik unsur-unsur kimia</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Joseph_Lister">
+	 <org:no>44</org:no>
+	 <org:nama>Joseph Lister</org:nama>
+	 <org:asal>Inggris</org:asal>
+	 <org:penemuan>Antiseptik untuk pembedahan</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Josep_dan_J.Montgolfier">
+	 <org:no>45</org:no>
+	 <org:nama>Josep dan J.Montgolfier</org:nama>
+	 <org:asal>Perancis</org:asal>
+	 <org:penemuan>Balon berudara panas</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Johannes_Gutenberg">
+	 <org:no>46</org:no>
+	 <org:nama>Johannes Gutenberg</org:nama>
+	 <org:asal>Jerman</org:asal>
+	 <org:penemuan>Mesin cetak</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/James_Watt">
+	 <org:no>47</org:no>
+	 <org:nama>James Watt</org:nama>
+	 <org:asal>Inggris</org:asal>
+	 <org:penemuan>Mesin uap (1765)</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/J.L.Baird_dan_C.F.Jenkins">
+	 <org:no>48</org:no>
+	 <org:nama>J.L.Baird dan C.F.Jenkins</org:nama>
+	 <org:asal>Inggris</org:asal>
+	 <org:penemuan>Televisi (1920)</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Jacques_Charles">
+	 <org:no>49</org:no>
+	 <org:nama>Jacques Charles</org:nama>
+	 <org:asal>Perancis</org:asal>
+	 <org:penemuan>Balon hidrogen</org:penemuan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.wisata.fake/Irving_Langmuir">
+	 <org:no>50</org:no>
+	 <org:nama>Irving Langmuir</org:nama>
+	 <org:asal>Amerika Serikat</org:asal>
+	 <org:penemuan>Kawat pijar dan tabung vacum tinggi</org:penemuan>
+	</rdf:Description>
+</rdf:RDF>
